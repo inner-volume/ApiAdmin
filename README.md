@@ -7,6 +7,11 @@
 [![ApiAdmin](https://img.shields.io/badge/build-passing-brightgreen.svg)](http://www.apiadmin.org/)
 [![ApiAdmin](https://img.shields.io/badge/ApiAdmin-5.0.0-brightgreen.svg)](http://www.apiadmin.org/)
 
+
+## 特别推荐
+博主新开的开源项目[EasyTiktok](https://gitee.com/apiadmin/tiktok)，如果你正在做抖音开发，相信你会需要它！目前项目还是dev状态，如果你有啥意见或者遇到BUG，及时提交，我会随时关注，及时更新！
+
+
 ## 前端页面
 ApiAdmin5.0是一个前后端完全分离的项目，前端采用Vue构建，如需要可视化配置的请移步：[ApiAdmin-WEB](https://gitee.com/apiadmin/ApiAdmin-WEB)
 
